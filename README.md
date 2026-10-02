@@ -33,13 +33,6 @@ Emails: instead of sending emails inside the API request, the backend publishes 
 Payments: subscriptions are handled through Razorpay.
 AI features: the Gemini API powers the AI-driven parts of the platform.
 
-## Project Structure
-
-```
-HireHeaven/
-├── backend/     # Node.js + TypeScript API
-├── frontend/    # Next.js app
-└── README.md
 
 ## Architecture
 
